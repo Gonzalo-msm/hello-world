@@ -1,3 +1,4 @@
 # hello-world
-learning
-2+2
+
+def hello():
+  print('hello world')
